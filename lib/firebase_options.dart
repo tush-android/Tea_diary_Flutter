@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB6cB0BraLknj4zjKVRTX9Tvxp5C-_0etM',
+    apiKey: 'Top Secrate',
     appId: '1:679569273387:android:3c8c06e8fb41e556eab06e',
     messagingSenderId: '679569273387',
     projectId: 'teadiary2-a9d82',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA4ZoSPv55V0HxgZJmIFlgIOCYuSB4m2tk',
+    apiKey: 'top secrate',
     appId: '1:679569273387:ios:5d0a571474a127adeab06e',
     messagingSenderId: '679569273387',
     projectId: 'teadiary2-a9d82',
